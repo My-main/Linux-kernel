@@ -8,4 +8,5 @@
 sudo install -y gcc elfutils-libelf-devel ncurses-devel bc openssl-devel flex bison
 ```
 3.多线程编译
+     
      make -j(线程数)
